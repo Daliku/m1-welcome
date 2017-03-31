@@ -35,5 +35,5 @@ If you would like to contribute to this repository by adding an exercise, making
 ## Course Links
 The following links are for students **currently enrolled in the course**:
 
-- [Slack Team](https://info201-a16.slack.com)
-- [Canvas Site](https://canvas.uw.edu/courses/1086094)
+- [Slack Team](https://info201-s17.slack.com)
+- [Canvas Site](https://canvas.uw.edu/courses/1135150/)
